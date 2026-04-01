@@ -1,4 +1,4 @@
-This repository uses BeautifulSoup and bots to do daily automated searches for apartments on the website BlueGround based on maximum price and sends the name of the apartment, price, and link to the apartment on the website.
+This repository uses BeautifulSoup and bots to do daily automated searches for apartments on the website BlueGround based on maximum price and sends the name of the apartment, price, and link to the apartment to one'e email address.
 
 <br>
 <br>
